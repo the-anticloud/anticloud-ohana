@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:3e2f2d9a-861f-5378-a093-c38e84d25ec3",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-06T06:26:47Z",
+    "component": {
+      "type": "application",
+      "name": "OHANA",
+      "version": "83b357604d34",
+      "bom-ref": "pkg:generic/anticloud/OHANA@83b357604d34",
+      "purl": "pkg:generic/anticloud/OHANA@83b357604d34",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": ""
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
